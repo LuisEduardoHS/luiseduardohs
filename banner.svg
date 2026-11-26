@@ -1,14 +1,11 @@
-<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="320" fill="#4A1024"/>
+<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Hola, soy Luis Eduardo.</title>
+  <desc id="description">Portada de perfil sobre fondo color vino.</desc>
 
-  <text
-    x="600"
-    y="185"
-    text-anchor="middle"
-    fill="#F7EEEE"
-    font-size="56"
-    font-family="Helvetica, Arial, sans-serif"
-    font-weight="600">
-    I'm Luis Eduardo.
-  </text>
+  <rect width="1200" height="420" fill="#4A1024"/>
+
+  <g text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="600" y="215" fill="#F7EEEE" font-size="76" font-weight="700">Hola, soy Luis Eduardo.</text>
+    <text x="600" y="273" fill="#F3BED0" font-size="34" letter-spacing="3">----</text>
+  </g>
 </svg>
