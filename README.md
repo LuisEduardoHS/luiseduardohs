@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**LuisEduardoHS/luiseduardohs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="./banner.svg" width="100%" alt="Luis Eduardo Banner" />
 
-Here are some ideas to get you started:
+  <br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://github.com/LuisEduardoHS">
+    <img src="https://img.shields.io/badge/GitHub-4A1024?style=for-the-badge&logo=github&logoColor=F7EEEE" alt="GitHub" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/TU-USUARIO">
+    <img src="https://img.shields.io/badge/LinkedIn-4A1024?style=for-the-badge&logo=linkedin&logoColor=F7EEEE" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:TU_CORREO@gmail.com">
+    <img src="https://img.shields.io/badge/Email-4A1024?style=for-the-badge&logo=gmail&logoColor=F7EEEE" alt="Email" />
+  </a>
+
+</div>
