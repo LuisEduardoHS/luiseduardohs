@@ -1,11 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#19090E"/><stop offset="1" stop-color="#54152B"/></linearGradient></defs>
-<rect width="900" height="300" fill="url(#bg)"/>
-<g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
-<text x="450" y="68" font-size="15" letter-spacing="4" fill="#D3A0AA">HELLO, WORLD!</text>
-<text x="450" y="132" font-size="48" font-weight="700" fill="#F8EEEE">I'm Luis Eduardo.</text>
-<text x="450" y="172" font-size="22" fill="#E3BFC6">Developer &amp; Digital Creative</text>
-<path d="M426 197 H474" stroke="#B96380" stroke-width="2"/>
-<text x="450" y="231" font-size="17" fill="#D3A0AA">Backend Development · Artificial Intelligence · UX/UI</text>
-<text x="450" y="265" font-size="13" fill="#D3A0AA">Building ideas into digital experiences.</text>
-</g></svg>
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="320" fill="#4A1024"/>
+
+  <text
+    x="600"
+    y="185"
+    text-anchor="middle"
+    fill="#F7EEEE"
+    font-size="56"
+    font-family="Helvetica, Arial, sans-serif"
+    font-weight="600">
+    I'm Luis Eduardo.
+  </text>
+</svg>
