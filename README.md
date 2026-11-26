@@ -1,19 +1,13 @@
 <div align="center">
 
-  <img src="./banner.svg" width="100%" alt="Luis Eduardo Banner" />
+  <img src="./banner.svg" width="100%" alt="I'm Luis Eduardo." />
 
   <br><br>
 
-  <a href="https://github.com/LuisEduardoHS">
-    <img src="https://img.shields.io/badge/GitHub-4A1024?style=for-the-badge&logo=github&logoColor=F7EEEE" alt="GitHub" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/TU-USUARIO">
-    <img src="https://img.shields.io/badge/LinkedIn-4A1024?style=for-the-badge&logo=linkedin&logoColor=F7EEEE" alt="LinkedIn" />
-  </a>
-
-  <a href="mailto:TU_CORREO@gmail.com">
-    <img src="https://img.shields.io/badge/Email-4A1024?style=for-the-badge&logo=gmail&logoColor=F7EEEE" alt="Email" />
-  </a>
+  <a href="https://github.com/LuisEduardoHS"><img src="https://img.icons8.com/ios-glyphs/60/F7EEEE/github.png" width="28" alt="GitHub" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.icons8.com/ios-glyphs/60/F7EEEE/linkedin.png" width="28" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:eduardohdz2111@gmail.com"><img src="https://img.icons8.com/ios-glyphs/60/F7EEEE/new-post.png" width="28" alt="Email" /></a>
 
 </div>
